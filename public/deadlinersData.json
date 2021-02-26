@@ -1,0 +1,16 @@
+{
+    "deadliners": [{
+            "id": 1,
+            "category": ["chance", "wannabe", "greatdev"],
+            "deadlinerName": "Отправить проект Арарату",
+            "endDate": "2021, 2, 27"
+        },
+        {
+            "id": 2,
+            "category": "job",
+            "deadlinerName": "Сдать фичу",
+            "endDate": "2021, 3, 4"
+        }
+
+    ]
+}
